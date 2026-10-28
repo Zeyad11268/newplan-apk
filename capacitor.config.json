@@ -1,0 +1,8 @@
+{
+  "appId": "com.newplan.invoices",
+  "appName": "فواتير نيو بلان",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
